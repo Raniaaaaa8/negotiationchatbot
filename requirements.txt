@@ -1,0 +1,4 @@
+torch
+parlai
+python-aiml
+flask

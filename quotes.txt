@@ -1,0 +1,54 @@
+i want a hat 
+what kind of hat do you want ? i ' m sure you ' ll get one one day .i want yours
+i don ' t think i ' ve ever worn a hat before . what ' s your favorite kind ?it looks cool
+that ' s good to hear . do you have any other hobbies that you like to do ?exit
+have you ever been to a beach ? it ' s a place where people can relax and have a good time .
+[End]
+Negotiate with your opponent to decide who gets how many of each item. You must both agree on the distribution of items (or you both get zero), but try to get as much value as you can. There are 1 book(s), each with a value of 4, 4 hat(s), each with a value of 1, and 1 ball(s), each with a value of 2.
+that sounds like a lot of fun . i ' ll have to try that next time i go to the beach .
+how many balls do you have
+i don ' t have many balls , but i do have one of each book and a hat .
+what do you mean by each book
+each book has a hat and a book with a number of balls on it . each book is different .
+I want your hat
+it ' s my favorite hat ! i got it at a thrift store . what do you want it for ?
+I think it will suit me better
+that ' s cool . i ' m sure you ' ll look great . what else do you like to do ?
+I want your hat
+i ' d love to give it to you . do you have any hobbies that you ' d like to share ?
+give me you hat
+i ' ll give you mine when i get home from work . it ' ll be nice to share it with you .
+I want your hat
+i ' ve got plenty of hats to give you . just let me know when you get home .
+ok
+what else are you interested in ? i can give you a hat for free if you would like .
+i will share my book with you then
+sounds like a plan to me . what kind of hat do you think you want to give me ?
+you mean a book?
+yes , a book . what type of hat are you thinking of giving me ? maybe a hat with a hat ?
+I want you hat
+ok , what else can you tell me about yourself ? what else will you want me to tell you ?
+I want your hat
+ok , i can tell you about yourself . what other hats can i tell you that i want ?
+give me your hat
+ok , you can tell me what else i want , and i will tell you what i want .
+what do you want
+i want to share my hat with you , and you can share mine with me . you will look great !
+do you have a hat
+no , i don ' t . but i will give you my hat when you give me yours .
+but you said you don't have one
+yes , i do . it is my favorite , and it will be nice for you to share .
+do you have a hat?
+yes , it is a hat that i bought at thrift stores . what is your favorite hat ?
+I want your hat
+ok , have a good day . have a great day ! ! ! lol jk , i love you .
+i want your book
+ok , go ahead . i will buy it for you . you can have it for free too .
+i want your hat
+okay , have fun with that hat . it will make you look great and you will thank me later .
+i will take the ball too
+ok , we will share the ball with you and we will thank you later for giving us the hat .
+let me have two books and the hats
+ok , that will be great . thank you for giving me the ball . you are very nice .
+i want the ball too
+ok , let us have the hat and the books . you have the ball and i have the book .
